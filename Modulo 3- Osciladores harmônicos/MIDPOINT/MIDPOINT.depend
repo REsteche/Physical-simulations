@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535724473 source:c:\users\ruben\documents\programas\osciladores harmônicos\midpoint\midpoint.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+

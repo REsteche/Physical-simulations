@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537536551 source:c:\users\ruben\documents\programas\modulo 5-  dinâmica populacional\din_pop\dinpop.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

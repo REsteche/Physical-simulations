@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535075314 source:c:\users\ruben\documents\programas\prt_comp_vel\vex-vnum.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540569968 source:c:\users\ruben\documents\programas_met_comp\modulo 8- diâmica de patrículas\ensemble\particulas.cpp
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+

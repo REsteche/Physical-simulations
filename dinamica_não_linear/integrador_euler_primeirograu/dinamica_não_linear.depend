@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535922631 source:c:\users\ruben\documents\programas\dinamica_não_linear\euler_cpf.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+

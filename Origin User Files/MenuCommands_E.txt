@@ -1,0 +1,12 @@
+[WksPlotMenuMRUList]
+
+Version = 1
+1 = 35568|3D Scatter
+2 = 35569|3D Trajectory
+3 = 33271|Stack Lines by Y Offsets
+4 = 33250|Line + Symbol
+5 = 33248|Scatter
+6 = 33249|Line
+7 = 33266|Histogram
+[Ver]
+25

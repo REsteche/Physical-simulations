@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535680717 source:c:\users\ruben\documents\programas\lorentz\lorentz.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+

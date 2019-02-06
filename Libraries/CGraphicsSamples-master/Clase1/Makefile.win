@@ -1,0 +1,29 @@
+# Project: Proyecto
+# Makefile created by Dev-C++ 5.3.0.1
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = BanderaJapon.o $(RES)
+LINKOBJ  = BanderaJapon.o $(RES)
+LIBS     = -L"C:/Users/hgx95/Desktop/GraphicsSamples/Dev-Cpp/MinGW32/lib" -static-libstdc++ -static-libgcc -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 
+INCS     = -I"C:/Users/hgx95/Desktop/GraphicsSamples/Dev-Cpp/MinGW32/include"
+CXXINCS  = -I"C:/Users/hgx95/Desktop/GraphicsSamples/Dev-Cpp/MinGW32/include"
+BIN      = Proyecto.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before Proyecto.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Proyecto.exe" $(LIBS)
+
+BanderaJapon.o: BanderaJapon.cpp
+	$(CPP) -c BanderaJapon.cpp -o BanderaJapon.o $(CXXFLAGS)

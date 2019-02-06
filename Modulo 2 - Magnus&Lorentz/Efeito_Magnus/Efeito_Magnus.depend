@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535131580 source:c:\users\ruben\documents\programas\efeito_magnus\versão_teste.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537550376 source:c:\users\ruben\documents\programas\modulo 5-  dinâmica populacional\lyapunov\lyly.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

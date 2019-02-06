@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543597858 source:c:\users\ruben\documents\programas_met_comp\modulo 11- monte carlo\monte_carlo\volume_hiper_esfera.cpp
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538142779 source:c:\users\ruben\documents\programas\modulo 6- caminhante aleatório\random_walk\ran_wal.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<time.h>
+

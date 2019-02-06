@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535719671 source:c:\users\ruben\documents\programas\osciladores harmônicos\ohs_eulercromer.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1535733099 source:c:\users\ruben\documents\programas\osciladores harmônicos\eulercromer\ohs_eulercromer.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1538781870 source:c:\users\ruben\documents\programas\modulo 7- corpos celestes\solar_system\sun.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1539957881 source:c:\users\ruben\documents\programas_met_comp\modulo 7- corpos celestes\solar_system\sun.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1539974509 source:c:\users\ruben\documents\programas_met_comp\modulo 7- corpos celestes\solar_system\sun.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
