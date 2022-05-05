@@ -12,3 +12,12 @@ All Scripts and technical details of the projects can be found on the website of
 
 
 > * Official discipline website: https://sites.google.com/site/imcf2018dfufpe/
+
+
+## Badges 
+![C](https://img.shields.io/badge/C-00599C?style=Plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=Plastic&logo=c%2B%2B&logoColor=white) 
+![python](https://img.shields.io/badge/Python-14354C?style=Plastic&logo=python&logoColor=white)
+
+![spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
+![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
