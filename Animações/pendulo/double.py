@@ -75,8 +75,8 @@ fig = plt.figure()
 
 #to smoothen the color go to https://htmlcolorcodes.com/
 ax = plt.axes(xlim=(-L1-L2-0.5, L1+L2+0.5), ylim=(-2.5, 1.5))
-line1, = ax.plot([], [], 'o-',color = '#D6EAF8',markersize = 12, markerfacecolor = '#0077BE',lw=2, markevery=10000, markeredgecolor = 'k')   # line for Earth
-line2, = ax.plot([], [], 'o-',color = '#FADBD8',markersize = 12, markerfacecolor = '#f66338',lw=2, markevery=10000, markeredgecolor = 'k')   # line for Jupiter
+line1, = ax.plot([], [], 'o-',color = '#D6EAF8',markersize = 12, markerfacecolor = '#0077BE',lw=2, markevery=10000, markeredgecolor = 'k')   # line for mass 1
+line2, = ax.plot([], [], 'o-',color = '#FADBD8',markersize = 12, markerfacecolor = '#f66338',lw=2, markevery=10000, markeredgecolor = 'k')   # line for mass 2
 line3, = ax.plot([], [], color='k', linestyle='-', linewidth=2)
 line4, = ax.plot([], [], color='k', linestyle='-', linewidth=2)
 line5, = ax.plot([], [], 'o', color='k', markersize = 10)
